@@ -1,2 +1,7 @@
 .venv/
 aim.txt
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
