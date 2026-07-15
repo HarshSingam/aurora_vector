@@ -1,23 +1,25 @@
 from pydantic import BaseModel, ConfigDict
-from typing import optional 
+from typing import Optional
 
 class JobCreate(BaseModel):
-    company: str
     title:str
+    company: str
+    salary: int
     location: str
-    status: str
+    
 
 class JobUpdate(BaseModel):
-    company: optional[str] = None
-    title: optional[str] = None 
-    location: optional[str] = None 
-    status: optional[str] =None 
+    title: Optional[str] = None
+    company: Optional[str] = None
+    salary: Optional[int] =None 
+    location: Optional[str] = None 
+     
 
 class JobResponse(BaseModel):
     id: int
-    company: str
     title: str
+    company: str
+    salary: int
     location: str
-    status: str
 
     model_config = ConfigDict(from_attributes=True)
