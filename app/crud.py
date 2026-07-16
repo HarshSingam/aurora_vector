@@ -30,14 +30,17 @@ def create_job(db: Session , job: schemas.JobCreate):
 
     return db_job
 
-def get_jobs(db: Session , job_id:Optional[int]=None, company:Optional[str]=None,):
+def get_jobs(db, job_id=None, limit=None):
     query = db.query(models.JobPosting)
 
     if job_id is not None:
         query = query.filter(models.JobPosting.id == job_id)
 
-    if company is not None:
-        query = query.filter(models.JobPosting.company == company)
+    # Latest entries first
+    query = query.order_by(models.JobPosting.id.desc())
+
+    if limit is not None:
+        query = query.limit(limit)
 
     return query.all()
 

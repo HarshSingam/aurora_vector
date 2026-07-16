@@ -4,6 +4,7 @@ from typing import Optional
 from app.connection import Base , engine
 from app.db_connection import get_db
 from app import crud, schemas
+from fastapi import Query
 
 
 
@@ -29,16 +30,10 @@ def create_job(job: schemas.JobCreate , db: Session = Depends(get_db)):
 @app.get("/jobs", response_model=list[schemas.JobResponse])
 def read_jobs(
     job_id: Optional[int] = None,
-    company: Optional[str] = None,
+    limit: int | None = Query(None, ge=1, le=100),
     db: Session = Depends(get_db)
 ):
-    jobs = crud.get_jobs(
-        db=db,
-        job_id=job_id,
-        company=company
-    )
-
-    return jobs
+    return crud.get_jobs(db, job_id, limit)
 
 @app.put("/jobs/{job_id}", response_model=schemas.JobResponse)
 def update_job(job_id: int, job: schemas.JobCreate, db: Session = Depends(get_db)):
