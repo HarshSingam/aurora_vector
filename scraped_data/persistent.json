@@ -1,0 +1,4222 @@
+[
+    {
+        "title": "Murex Developer",
+        "company": "Persistent",
+        "experience": "8-15 years",
+        "reference_number": "SF_OP_201723-1-1",
+        "job_code": 172887,
+        "skills": [
+            "Murex",
+            "SQL",
+            "Linux"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": "Solution Architect  AIML + Supply Chain",
+        "company": "Persistent",
+        "experience": "10-15 years",
+        "reference_number": "SF_OP_203074-13-1",
+        "job_code": 179013,
+        "skills": [
+            "Python",
+            "Snowflake",
+            "Machine Learning",
+            "AI",
+            "Azure",
+            "Supply Chain"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "DevSecOps Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_201249-3-1",
+        "job_code": 176624,
+        "skills": [
+            "AWS",
+            "DevSecOps",
+            "GitHub"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Architect - India",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "SF_OP_203840-16-1",
+        "job_code": 177138,
+        "skills": [
+            "Java",
+            "Python",
+            "LLM",
+            "Microservices"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Senior AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_189188-10-1",
+        "job_code": 178308,
+        "skills": [
+            "GenAI",
+            "Agentic AI",
+            "ML",
+            "LLM",
+            "Langchain"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Python Developer + Django",
+        "company": "Persistent",
+        "experience": "8-14 years",
+        "reference_number": "SF_OP_203255-1-5",
+        "job_code": 177046,
+        "skills": [
+            "SQL",
+            "ETL",
+            "Data Warehousing"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Kafka Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL214863_1-7-1",
+        "job_code": 180708,
+        "skills": [
+            "Java",
+            "Kafka",
+            "Microservices",
+            "Spring Boot"
+        ],
+        "locations": [
+            "Vadodara, Gujarat, India"
+        ]
+    },
+    {
+        "title": "Conga CLM Developer - Salesforce",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL214987_1-8-1",
+        "job_code": 180922,
+        "skills": [
+            "BaseCase CLM",
+            "Lightning Web Component"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Golang Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL301030-62-2",
+        "job_code": 175484,
+        "skills": [
+            "Golang",
+            "Python"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "RPG Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL304168-21-1",
+        "job_code": 172733,
+        "skills": [
+            "RPG developers (AS400)",
+            "DB2 400",
+            "RPG CL Programming"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Chennai, Tamil Nadu, India"
+        ]
+    },
+    {
+        "title": "RPA Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL301882-120-3",
+        "job_code": 179932,
+        "skills": [
+            "UIPath",
+            "Python",
+            "Stakeholder Management",
+            "Automation",
+            "Workflows",
+            "Performance",
+            "Performance Optimization",
+            "Requirement Gathering"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Sr. DataBricks Engineer (ADB+Snowflake)",
+        "company": "Persistent",
+        "experience": "8-16 years",
+        "reference_number": "PSL303558-140-8",
+        "job_code": 180969,
+        "skills": [
+            "Azure DataBricks",
+            "PySpark and Snowflake"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India",
+            "Bengaluru, Karnataka, India",
+            "Chennai, Tamil Nadu, India"
+        ]
+    },
+    {
+        "title": "Core Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL-US211102_2-368-1",
+        "job_code": 181660,
+        "skills": [
+            "Core Java",
+            "J2EE",
+            "Hibernate",
+            "Spring boot",
+            "Java",
+            "Multithreading",
+            "JPA",
+            "Spring",
+            "JMS",
+            "Application Design",
+            "SQL",
+            "Communication Skills",
+            "Team Player"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Angular Developer ",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "Aglnt-0367-43-1",
+        "job_code": 180574,
+        "skills": [
+            "Angular",
+            "TypeScript",
+            "RESTful API",
+            "Microservices",
+            ".Net Core"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "SQL Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL308587-2-1",
+        "job_code": 180637,
+        "skills": [
+            "SQL",
+            "SQL Programming",
+            "Data Integration",
+            "Legacy",
+            "product",
+            "Unix"
+        ],
+        "locations": [
+            "Chennai, Tamil Nadu, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_191011-1-3",
+        "job_code": 180955,
+        "skills": [
+            "Java",
+            "Spring",
+            "Microservices",
+            "Artificial Intelligence"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".NET Full stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_198703-1-1",
+        "job_code": 181963,
+        "skills": [
+            ".Net Core",
+            "Claude",
+            "OOPS",
+            "Azure Pipelines",
+            "SQL"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_198888-1-5",
+        "job_code": 180961,
+        "skills": [
+            "Spring",
+            "Microservices",
+            "Artificial Intelligence"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Sr�.NET�Full�Stack�Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204056-1-1",
+        "job_code": 180347,
+        "skills": [
+            ".Net Core",
+            "React JS"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Informatica Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204584-1-1",
+        "job_code": 180915,
+        "skills": [
+            "Informatica",
+            "Fabric"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " WMS Techno Functional consultant",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_205787-1-1",
+        "job_code": 181977,
+        "skills": [
+            "Java",
+            "Python"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "WMS Techno Functional consultant",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_205787-3-1",
+        "job_code": 181979,
+        "skills": [
+            "Java",
+            "Python"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " WMS Techno Functional consultant",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_205787-4-1",
+        "job_code": 181980,
+        "skills": [
+            "Java",
+            "Python"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " WMS Techno Functional consultant",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_205787-4-2",
+        "job_code": 181981,
+        "skills": [
+            "Java",
+            "Python"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " Python Automation Tester",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204603-1-1",
+        "job_code": 180082,
+        "skills": [
+            "Python",
+            "Appium"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Java Senior Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL214838_1-47-1",
+        "job_code": 179346,
+        "skills": [
+            "Java",
+            "Microservices",
+            "Spring Boot",
+            "Kafka"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "GPU Devops Engineer",
+        "company": "Persistent",
+        "experience": "4-10 years",
+        "reference_number": "PSL302071-28-1",
+        "job_code": 179297,
+        "skills": [
+            "Linux",
+            "Bash",
+            "Python3"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Scala Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL300431-289-1",
+        "job_code": 181325,
+        "skills": [
+            "Scala",
+            "ADF"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-6-6",
+        "job_code": 182130,
+        "skills": [
+            "Python",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Python Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL302166-21-3",
+        "job_code": 177795,
+        "skills": [
+            "Python",
+            "Microservices",
+            "Flask",
+            "My SQL",
+            "No SQL",
+            "API",
+            "AWS",
+            "Docker",
+            "PostgreSQL",
+            "PyTorch"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Azure�DataBricks�,�PySpark�and�AI/ML",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL303558-124-1",
+        "job_code": 178345,
+        "skills": [
+            "Automation",
+            "Python",
+            "UIPath",
+            "Other",
+            "AI"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Chennai, Tamil Nadu, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Azure Databricks Engineer (ADB + AI/ ML)",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL307046-1-3",
+        "job_code": 176347,
+        "skills": [
+            "Analytics",
+            "Azure Databricks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Chennai, Tamil Nadu, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Backend Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL012770-178-1",
+        "job_code": 181019,
+        "skills": [
+            "Python",
+            "Langchain",
+            "Dataiku",
+            "Other",
+            "Node.JS",
+            "Planet",
+            "Access",
+            "AI"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL202519_1-65-1",
+        "job_code": 179270,
+        "skills": [
+            "Java",
+            "Kubernetes"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Technical Project Manager",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL301305-136-1",
+        "job_code": 179421,
+        "skills": [
+            "React JS",
+            "Python",
+            "Mongo DB",
+            "Type Script",
+            "TypeScript",
+            "MongoDB"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Sr. Java Developer",
+        "company": "Persistent",
+        "experience": "5-10 years",
+        "reference_number": "SF_OP_203552-5-1",
+        "job_code": 178782,
+        "skills": [
+            "Data Integration",
+            "API"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Sr. Java Developer",
+        "company": "Persistent",
+        "experience": "5-10 years",
+        "reference_number": "SF_OP_203552-5-2",
+        "job_code": 178783,
+        "skills": [
+            "Data Integration",
+            "API"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Dev Lead - India",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "SF_OP_203840-17-1",
+        "job_code": 177137,
+        "skills": [
+            "Java",
+            "Python",
+            "LLM",
+            "Microservices"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Java Back End Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL012770-175-1",
+        "job_code": 178093,
+        "skills": [
+            "Java",
+            "Web Services",
+            "Cloud Platforms",
+            "Full Stack",
+            "No SQL",
+            "Planet",
+            "Access"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Denodo Developer",
+        "company": "Persistent",
+        "experience": "4-6 years",
+        "reference_number": "PSL216732_1-171-4",
+        "job_code": 178131,
+        "skills": [
+            "Denodo",
+            "Snowflake and SQL"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Denodo Business Analyst",
+        "company": "Persistent",
+        "experience": "4-12 years",
+        "reference_number": "PSL216732_1-172-1",
+        "job_code": 178137,
+        "skills": [
+            "Business Analysis",
+            "Denodo",
+            "Data Analysis."
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python Matplotlib Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL201754_1-60-1",
+        "job_code": 180342,
+        "skills": [
+            "Python",
+            "C C++"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": "7-14 years",
+        "reference_number": "PSL303095-33-1",
+        "job_code": 179154,
+        "skills": [
+            "Java",
+            "JSP",
+            "Spring Boot"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Platform Engineer",
+        "company": "Persistent",
+        "experience": "8-14 years",
+        "reference_number": "PSL-US212239_1-478-1",
+        "job_code": 179121,
+        "skills": [
+            "SQL",
+            "Python"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "SDET with Playwright",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL213351_1-486-2",
+        "job_code": 180321,
+        "skills": [
+            "Playwright",
+            "Type Script",
+            "Automation",
+            "API",
+            "Automation Testing",
+            "Automation testing",
+            "Testing"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Lead",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL214952_1-160-1",
+        "job_code": 179344,
+        "skills": [
+            "Java",
+            "Microservices",
+            "Spring Boot",
+            "Kafka"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": "10-15 years",
+        "reference_number": "PSL217359_1-52-1",
+        "job_code": 177217,
+        "skills": [
+            "Java",
+            "Microservices",
+            "Spring Boot",
+            "Kafka"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "C++ Developer",
+        "company": "Persistent",
+        "experience": "7-14 years",
+        "reference_number": "PSL302178-30-2",
+        "job_code": 173378,
+        "skills": [
+            "C",
+            "C++ and network security"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": ".NET Full stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_198703-1-3",
+        "job_code": 181965,
+        "skills": [
+            ".Net Core",
+            "Claude",
+            "OOPS",
+            "Azure Pipelines",
+            "SQL"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Solution Architect  AIML + Supply Chain",
+        "company": "Persistent",
+        "experience": "10-15 years",
+        "reference_number": "SF_OP_203074-3-1",
+        "job_code": 178349,
+        "skills": [
+            "Data Science",
+            "Machine Learning",
+            "Python",
+            "Supply Chain",
+            "Databases SQL and No SQL",
+            "Demand Forecasting"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Support Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_201248-3-3",
+        "job_code": 181505,
+        "skills": [
+            "C C++",
+            "Python",
+            "Micro Services",
+            "COM",
+            "Microservices",
+            "GRPC",
+            "NUnit",
+            "Stakeholder Management"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Python Full Stack Architect",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL-US210673_2-109-1",
+        "job_code": 180332,
+        "skills": [
+            "Python",
+            "Containerization",
+            "Kubernetes"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Ruby on Rails Developer ",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL301149-25-2",
+        "job_code": 181135,
+        "skills": [
+            "Ruby on Rails",
+            "React"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Ruby on Rails Developer ",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL301149-25-1",
+        "job_code": 181134,
+        "skills": [
+            "Ruby on Rails",
+            "React"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "C++ Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL306116-48-1",
+        "job_code": 175440,
+        "skills": [
+            "SRE",
+            "Scalability",
+            "Performance",
+            "Services",
+            "kafka",
+            "S3",
+            "EC2"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": "Databricks Architect",
+        "company": "Persistent",
+        "experience": "12-14 years",
+        "reference_number": "PSL204183_1-246-1",
+        "job_code": 176922,
+        "skills": [
+            "Data Bricks",
+            "AWS",
+            "Big Data",
+            "Stakeholder Management",
+            "Coding",
+            "Solution Architecture"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python Backend developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_183500-1-1",
+        "job_code": 176011,
+        "skills": [
+            "ML Ops",
+            "Model Deployment",
+            "Docker",
+            "AI",
+            "Other"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-6-5",
+        "job_code": 182128,
+        "skills": [
+            "Python",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Python Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL302166-21-2",
+        "job_code": 177788,
+        "skills": [
+            "Python",
+            "Microservices",
+            "Flask",
+            "My SQL",
+            "No SQL",
+            "API",
+            "AWS",
+            "Docker",
+            "PostgreSQL",
+            "PyTorch"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": ".NET Full Stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-31-4",
+        "job_code": 178553,
+        "skills": [
+            "C#.Net",
+            "Angular",
+            "React",
+            "SQL Server"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "AWS?Application?Developers",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204881-1-5",
+        "job_code": 182545,
+        "skills": [
+            "Unified Communications & Telecom -  AWS Connect",
+            "AWS Lambda"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Salesforce Developer Lead",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "PSL213000_1-17-1",
+        "job_code": 176629,
+        "skills": [
+            "Salesforce Admin",
+            "Salesforce Service Cloud - Service Cloud",
+            "Salesforce Sales Cloud - Sales Cloud",
+            "Salesforce Data Migration",
+            "Salesforce DevOps - Copado",
+            "Salesforce Apex",
+            "Salesforce LWC",
+            "Salesforce Integration Services"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": "Dev Lead - India",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_187344-11-1",
+        "job_code": 180220,
+        "skills": [
+            "Work Flow",
+            "UIPath",
+            "Automation",
+            "Other"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_191093-1-11",
+        "job_code": 172078,
+        "skills": [
+            "Databricks",
+            "AWS",
+            "Other",
+            "No SQL",
+            "Data Bricks",
+            "Map Reduce"
+        ],
+        "locations": [
+            "Gurugram, Haryana, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL301324-31-1",
+        "job_code": 180214,
+        "skills": [
+            "Java",
+            "Microservices",
+            "Spring Boot",
+            "Angular"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Full Stack Java - Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204885-2-1",
+        "job_code": 180414,
+        "skills": [
+            "Java",
+            "Full Stack"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Mulesoft Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_203233-1-2",
+        "job_code": 176870,
+        "skills": [
+            "MuleSoft",
+            "MuleSoft Platform Admin"
+        ],
+        "locations": [
+            "Mumbai, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL303558-120-1",
+        "job_code": 178273,
+        "skills": [
+            "Data Analysis",
+            "SQL",
+            "Python",
+            "Other",
+            "Dashboards"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": ".NET Developer",
+        "company": "Persistent",
+        "experience": "7-11 years",
+        "reference_number": "SF_OP_203733-1-1",
+        "job_code": 177602,
+        "skills": [
+            ".NET",
+            "AWS"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL301324-37-1",
+        "job_code": 180256,
+        "skills": [
+            "Java",
+            "AI",
+            "MCP",
+            "Other",
+            "Micro Services",
+            "Mongo DB",
+            "My SQL",
+            "No SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Python Full stack",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL301882-110-2",
+        "job_code": 176925,
+        "skills": [
+            "kafka",
+            "Python",
+            "React",
+            "Azure",
+            "AWS",
+            "GitHub"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Automation Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL307559-18-1",
+        "job_code": 179153,
+        "skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "LLM",
+            "RAG (Retrieval Augmented Generation)",
+            "Ms Sql"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": "10-15 years",
+        "reference_number": "PSL304154-37-1",
+        "job_code": 179335,
+        "skills": [
+            "Java",
+            "Artificial Intelligence",
+            "Microservices",
+            "Other",
+            "Micro Services",
+            "Mongo DB",
+            "My SQL",
+            "No SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Programmer (Dev)",
+        "company": "Persistent",
+        "experience": "2-5 years",
+        "reference_number": "PSL303620-8-1",
+        "job_code": 175565,
+        "skills": [
+            "Architecture/ Solution Design",
+            "Node.JS",
+            "Security",
+            "Troubleshooting",
+            "Grafana",
+            "Database",
+            "Python"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "AI/ML Developer",
+        "company": "Persistent",
+        "experience": "5-10 years",
+        "reference_number": "SF_OP_203028-2-1",
+        "job_code": 175985,
+        "skills": [
+            "Python",
+            "C C++",
+            "5G",
+            "PCAP",
+            "Anomaly Detection",
+            "Clustering",
+            "Reinforcement learning",
+            "CONTROL",
+            "Transformers"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-6-1",
+        "job_code": 182101,
+        "skills": [
+            "Python",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "AI ML Engineer - Python",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL216626_1-35-2",
+        "job_code": 170120,
+        "skills": [
+            "Python",
+            "Django"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "UI Front End Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL301305-104-3",
+        "job_code": 175499,
+        "skills": [
+            "Terraform",
+            "AWS"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Software developer with Devops",
+        "company": "Persistent",
+        "experience": "8-16 years",
+        "reference_number": "PSL304664-10-5",
+        "job_code": 178723,
+        "skills": [
+            "Java/python/.net",
+            "AWS",
+            "Kubernetes",
+            "Terraform",
+            "Docker",
+            "API"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Dev Lead - India",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_187344-11-2",
+        "job_code": 180257,
+        "skills": [
+            "Work Flow",
+            "UIPath",
+            "Automation",
+            "Other"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "SQL Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL212795_1-56-1",
+        "job_code": 180636,
+        "skills": [
+            "SQL",
+            "SQL Programming",
+            "product"
+        ],
+        "locations": [
+            "Chennai, Tamil Nadu, India"
+        ]
+    },
+    {
+        "title": "ServiceNow Developer-SecOps",
+        "company": "Persistent",
+        "experience": "5-10 years",
+        "reference_number": "SF_OP_189732-2-2",
+        "job_code": 157905,
+        "skills": [
+            "ServiceNow",
+            "Work Flow",
+            "Testing",
+            "UI",
+            "ServiceNow Development"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "IBM FTM / IIB Developer",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "SF_OP_187248-10-1",
+        "job_code": 166482,
+        "skills": [
+            "IBM",
+            "FTM",
+            "Openshift"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Solution Architect ? AIML + Supply Chain ",
+        "company": "Persistent",
+        "experience": "10-15 years",
+        "reference_number": "SF_OP_203074-11-1",
+        "job_code": 179016,
+        "skills": [
+            "Python",
+            "Snowflake",
+            "Machine Learning",
+            "AI",
+            "Azure",
+            "Supply Chain"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " Solution Architect AIML + Supply Chain",
+        "company": "Persistent",
+        "experience": "10-15 years",
+        "reference_number": "SF_OP_203074-7-1",
+        "job_code": 178348,
+        "skills": [
+            "Data Science",
+            "Python",
+            "Machine Learning",
+            "Supply Chain",
+            "Analytics",
+            "Demand Forecasting"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "AWS Devops Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_201249-4-1",
+        "job_code": 176623,
+        "skills": [
+            "Python",
+            "Containerization",
+            "Grafana",
+            "Other",
+            "Scripting",
+            "Bash",
+            "Jenkins"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Functional AI Tester",
+        "company": "Persistent",
+        "experience": "2-5 years",
+        "reference_number": "PSL213074_1-65-1",
+        "job_code": 177438,
+        "skills": [
+            "Data Bricks",
+            "Fabric",
+            "PowerBI",
+            "Other",
+            "Databricks"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Solution Architect",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL307763-3-1",
+        "job_code": 180410,
+        "skills": [
+            "Java",
+            "AWS"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Gen AI Python",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_199225-3-1",
+        "job_code": 180000,
+        "skills": [
+            "Python",
+            "Langchain",
+            "Langgraph"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer + Kafka",
+        "company": "Persistent",
+        "experience": "4-8 years",
+        "reference_number": "PSL301880-7-1",
+        "job_code": 180147,
+        "skills": [
+            "IBM ODM",
+            "Decision Center",
+            "Decision Server",
+            "Rule Designer",
+            "Business Rules Management System (BRMS)",
+            "Decision Tables",
+            "Decision Trees",
+            "Java",
+            "REST APIs",
+            "SQL",
+            "Git"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Senior Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL304154-40-1",
+        "job_code": 179342,
+        "skills": [
+            "Java",
+            "Artificial Intelligence",
+            "Microservices",
+            "Other",
+            "Micro Services",
+            "Mongo DB",
+            "My SQL",
+            "No SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".NET Full Stack developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL303603-19-2",
+        "job_code": 177462,
+        "skills": [
+            ".Net Core",
+            "Azure",
+            "Kubernetes",
+            "Vault"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Senior Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL300244-231-1",
+        "job_code": 179353,
+        "skills": [
+            "Java",
+            "AI",
+            "Python",
+            "Other",
+            "Spring",
+            ".NET"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Salesforce Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL-US211629_12-283-1",
+        "job_code": 177678,
+        "skills": [
+            "Salesforce LWC",
+            "Integration Others"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "QA Automation Robot Framework",
+        "company": "Persistent",
+        "experience": "7-9 years",
+        "reference_number": "PSL207423_1-11-1",
+        "job_code": 178744,
+        "skills": [
+            "Robot Framework",
+            "Automation Testing"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_191011-1-9",
+        "job_code": 180951,
+        "skills": [
+            "Java",
+            "REST",
+            "API",
+            "Artificial Intelligence"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "SQL Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL308587-1-2",
+        "job_code": 180634,
+        "skills": [
+            "Oracle PL SQL",
+            "SQL Programming"
+        ],
+        "locations": [
+            "Chennai, Tamil Nadu, India"
+        ]
+    },
+    {
+        "title": "Java + Angular Full‑Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL300244-236-1",
+        "job_code": 179324,
+        "skills": [
+            "Java",
+            "Mongo DB",
+            "My SQL",
+            "Micro Services"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL301324-28-1",
+        "job_code": 180900,
+        "skills": [
+            "Java",
+            "AI",
+            "MCP",
+            "Other",
+            "Micro Services",
+            "Mongo DB",
+            "My SQL",
+            "No SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "GenAI/Agentic AI Engineer",
+        "company": "Persistent",
+        "experience": "7-14 years",
+        "reference_number": "PSL301287-35-1",
+        "job_code": 176562,
+        "skills": [
+            "Python",
+            "AI",
+            "Communication Skills",
+            "Other",
+            "Micro Services",
+            "Command"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "GenAI/Agentic AI Engineer",
+        "company": "Persistent",
+        "experience": "6-15 years",
+        "reference_number": "PSL301287-37-1",
+        "job_code": 176564,
+        "skills": [
+            "Python",
+            "AI",
+            "Communication Skills",
+            "Other",
+            "Micro Services",
+            "Command"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL303603-20-3",
+        "job_code": 177800,
+        "skills": [
+            "Java",
+            "Angular",
+            "Azure",
+            "Kubernetes"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-7-1",
+        "job_code": 182102,
+        "skills": [
+            "Python",
+            "Monitoring",
+            "SRE"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Senior QA Automation Test Engineer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_193614-10-2",
+        "job_code": 174532,
+        "skills": [
+            "Automation",
+            "AI",
+            "Testing",
+            "Hybrid",
+            "Mobile",
+            "Python",
+            "Java",
+            "UI",
+            "Playwright",
+            "API"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204885-7-2",
+        "job_code": 180699,
+        "skills": [
+            "Java",
+            "Full Stack"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Oracle Database Administrator",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_200971-12-3",
+        "job_code": 182369,
+        "skills": [
+            "PostgreSQL",
+            "Python",
+            "Agile SCRUM"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Senior Flutter Developer ",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_202681-1-7",
+        "job_code": 182599,
+        "skills": [
+            "Flutter Core",
+            "Mobile App"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Sr.Azure Databricks Engineer",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "PSL307046-2-4",
+        "job_code": 176340,
+        "skills": [
+            "Analytics",
+            "Azure Databricks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Chennai, Tamil Nadu, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": "8-16 years",
+        "reference_number": "SF_OP_203255-1-7",
+        "job_code": 176778,
+        "skills": [
+            "SQL",
+            "ETL",
+            "Data Warehousing"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Full Stack Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204885-2-3",
+        "job_code": 180415,
+        "skills": [
+            "Java",
+            "Full Stack"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "IBM FTM / IIB Developer",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "PSL305980-1-1",
+        "job_code": 171765,
+        "skills": [
+            "IBM",
+            "FTM",
+            "Openshift"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "OAA Developer",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "PSL215549_1-12-1",
+        "job_code": 180086,
+        "skills": [
+            "Oracle Advanced Authentication (OAA/OAM)",
+            "Multi-Factor & Adaptive Authentication",
+            "REST API Integration"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "ServiceNow Developer-SecOps",
+        "company": "Persistent",
+        "experience": "2-5 years",
+        "reference_number": "PSL306758-25-1",
+        "job_code": 177958,
+        "skills": [
+            "ServiceNow",
+            "ITSM",
+            "Other",
+            "Angular JS",
+            "Workflows",
+            "Automation"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Lead Data Engineer",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "PSL216732_1-182-1",
+        "job_code": 180335,
+        "skills": [
+            "Snowflake",
+            "DBT",
+            "Azure"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Senior Scala Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_199225-4-2",
+        "job_code": 179998,
+        "skills": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "algorithms",
+            "Other",
+            "Python"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "SCPO Techno Functional Consultant",
+        "company": "Persistent",
+        "experience": "5-20 years",
+        "reference_number": "SF_OP_200911-2-9",
+        "job_code": 178753,
+        "skills": [
+            "Python",
+            "Oracle PL SQL"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": "Java Senior Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL300244-229-1",
+        "job_code": 179351,
+        "skills": [
+            "Java",
+            "AI",
+            "Python",
+            "Other",
+            "Spring",
+            ".NET"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_191011-1-4",
+        "job_code": 180952,
+        "skills": [
+            "Java",
+            "Spring",
+            "Microservices",
+            "Artificial Intelligence"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL214952_1-161-1",
+        "job_code": 179345,
+        "skills": [
+            "Java",
+            "Microservices",
+            "Spring Boot",
+            "Kafka"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Ab�Initio�Developer",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "SF_OP_199326-30-1",
+        "job_code": 174889,
+        "skills": [
+            "SQL",
+            "Python",
+            "Axion",
+            "Other"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "ServiceNow Developer-SecOps",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_189732-2-5",
+        "job_code": 157915,
+        "skills": [
+            "ServiceNow",
+            "Work Flow",
+            "Testing",
+            "UI",
+            "ServiceNow Development"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "SQL Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL308587-1-3",
+        "job_code": 180635,
+        "skills": [
+            "Oracle PL SQL",
+            "SQL Programming"
+        ],
+        "locations": [
+            "Chennai, Tamil Nadu, India"
+        ]
+    },
+    {
+        "title": "Python+Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-6-3",
+        "job_code": 182104,
+        "skills": [
+            "Python",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Python+Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-8-6",
+        "job_code": 182139,
+        "skills": [
+            "Python3",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-6-2",
+        "job_code": 182103,
+        "skills": [
+            "Python",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-8-4",
+        "job_code": 182141,
+        "skills": [
+            "Python3",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".NET Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_202825-5-2",
+        "job_code": 182287,
+        "skills": [
+            "ASP.NET Core",
+            "RESTful API",
+            "OAuth2",
+            "Other",
+            "Azure Cosmos DB",
+            "Open API",
+            "Web API",
+            "Work Flow"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "AI App QA Specialist (Web + Mobile)",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "SF_OP_193614-10-1",
+        "job_code": 174531,
+        "skills": [
+            "Automation",
+            "AI",
+            "Testing",
+            "Hybrid",
+            "Mobile",
+            "Python",
+            "Java",
+            "UI",
+            "Playwright",
+            "API"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India",
+            "Bengaluru, Karnataka, India",
+            "Noida, Uttar Pradesh, India"
+        ]
+    },
+    {
+        "title": "Java Full stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-40-3",
+        "job_code": 179651,
+        "skills": [
+            "React",
+            "PostgreSQL",
+            "TypeScript",
+            "Java Springboot",
+            "React JS",
+            "Azure"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_202681-1-6",
+        "job_code": 182619,
+        "skills": [
+            "Python",
+            "Microservices.NET"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Apigee Developer",
+        "company": "Persistent",
+        "experience": "3-6 years",
+        "reference_number": "PSL303397-1-1",
+        "job_code": 171160,
+        "skills": [
+            "Data Engineering",
+            "Python"
+        ],
+        "locations": [
+            "Mumbai, Maharashtra, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python and Django Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL-US212239_1-476-1",
+        "job_code": 179205,
+        "skills": [
+            "SQL",
+            "Python"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "DevOps IAM",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "PSL301378-12-1",
+        "job_code": 179037,
+        "skills": [
+            "IAM Platform Engineering",
+            "CI/CD & Automation",
+            "Cloud IAM / Scripting"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Sr. Agentic AI Software Engineer",
+        "company": "Persistent",
+        "experience": "5-10 years",
+        "reference_number": "SF_OP_203840-5-1",
+        "job_code": 177136,
+        "skills": [
+            "Java",
+            "Python",
+            "LLM",
+            "Microservices"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": " Functional AI Tester",
+        "company": "Persistent",
+        "experience": "2-5 years",
+        "reference_number": "PSL213074_1-67-1",
+        "job_code": 177440,
+        "skills": [
+            "Azure",
+            "Data Bricks",
+            "Other",
+            "product",
+            "Azure Data"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Senior .NET Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL308193-15-1",
+        "job_code": 180229,
+        "skills": [
+            "C#.Net",
+            "Embedded System"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Sr FDE",
+        "company": "Persistent",
+        "experience": "8-10 years",
+        "reference_number": "PSL307128-2-3",
+        "job_code": 175022,
+        "skills": [
+            "Gen AI",
+            "FastAPI",
+            "Python"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": ".NET Full Stack Developer",
+        "company": "Persistent",
+        "experience": "5-10 years",
+        "reference_number": "SF_OP_202825-3-1",
+        "job_code": 181253,
+        "skills": [
+            ".NET Core",
+            "Angular (8+)",
+            "Azure DevOps",
+            "and application architecture."
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL303558-114-1",
+        "job_code": 178275,
+        "skills": [
+            "Databricks",
+            "Other",
+            "Data Bricks",
+            "AI",
+            "Analytics",
+            "ETL"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL217359_1-52-4",
+        "job_code": 177215,
+        "skills": [
+            "Java",
+            "Microservices",
+            "Spring Boot",
+            "Kafka"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".Net Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL214838_1-28-1",
+        "job_code": 173713,
+        "skills": [
+            ".Net",
+            ".Net core",
+            "C#",
+            "Web API"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Senior Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL300244-232-1",
+        "job_code": 179354,
+        "skills": [
+            "Java",
+            "AI",
+            "Python",
+            "Other",
+            "Spring",
+            ".NET"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Amazon Connect Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_202609-6-2",
+        "job_code": 180617,
+        "skills": [
+            "Telecom-Contact Center Technology",
+            "Contact Center as a Service (CCsaS)"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": ".NET Full Stack Developer ",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL303603-17-3",
+        "job_code": 176611,
+        "skills": [
+            ".Net Core",
+            "Azure",
+            "Kubernetes",
+            "Azure Service Bus"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Embedded Firmware developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL308371-1-1",
+        "job_code": 179307,
+        "skills": [
+            "Flutter Core",
+            "Java"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Golang Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL012770-185-1",
+        "job_code": 181893,
+        "skills": [
+            "Golang",
+            "Angular"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_198888-1-7",
+        "job_code": 180958,
+        "skills": [
+            "Spring",
+            "Microservices",
+            "Artificial Intelligence"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Full Stack Developer ",
+        "company": "Persistent",
+        "experience": "7-10 years",
+        "reference_number": "PSL303380-3-1",
+        "job_code": 176891,
+        "skills": [
+            "Java Springboot",
+            "React"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Persistent",
+        "experience": "7-10 years",
+        "reference_number": "PSL303380-4-1",
+        "job_code": 176892,
+        "skills": [
+            "Java Springboot",
+            "React"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-28-1",
+        "job_code": 178419,
+        "skills": [
+            "C#.Net",
+            "Angular",
+            "SQL",
+            "Azure"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL301324-29-1",
+        "job_code": 180212,
+        "skills": [
+            "Java",
+            "AI",
+            "MCP",
+            "Other",
+            "Micro Services",
+            "Mongo DB",
+            "My SQL",
+            "No SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Python Developer ",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-47-5",
+        "job_code": 181780,
+        "skills": [
+            "Java",
+            "React",
+            "Python",
+            "Generative AI Tools"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Golang Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204729-35-10",
+        "job_code": 181078,
+        "skills": [
+            "DevOps",
+            "Kubernetes",
+            "Golang",
+            "Other",
+            "Openshift",
+            "Scripting"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-8-3",
+        "job_code": 182135,
+        "skills": [
+            "Python3",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-6-8",
+        "job_code": 182118,
+        "skills": [
+            "Python",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Frontend Angular Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL012770-183-1",
+        "job_code": 181648,
+        "skills": [
+            "Angular",
+            "JavaScript",
+            "Cloud Platforms",
+            "Other",
+            "Azure DevOps",
+            "Nestjs",
+            "HTML 5",
+            "NodeJS"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Full stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-28-3",
+        "job_code": 178420,
+        "skills": [
+            "C#.Net",
+            "Angular",
+            "SQL",
+            "Azure"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "AI Test Automation Engineer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_193614-10-3",
+        "job_code": 174533,
+        "skills": [
+            "Automation",
+            "AI",
+            "Testing",
+            "Hybrid",
+            "Mobile",
+            "Python",
+            "Java",
+            "UI",
+            "Playwright",
+            "API"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": ".NET Full stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_198703-1-4",
+        "job_code": 181966,
+        "skills": [
+            ".Net Core",
+            "Claude",
+            "OOPS",
+            "Azure Pipelines",
+            "SQL"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Amazon Connect Lead / Architect",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204881-1-3",
+        "job_code": 182543,
+        "skills": [
+            "Unified Communications & Telecom -  AWS Connect",
+            "AWS Lambda"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL304308-4-1",
+        "job_code": 170586,
+        "skills": [
+            "Integration Others",
+            "No SQL",
+            "Micro Services",
+            "Java",
+            "kafka",
+            "Apache Camel"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen?AI?Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-6-7",
+        "job_code": 182127,
+        "skills": [
+            "Python",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "AI Architect",
+        "company": "Persistent",
+        "experience": "12-18 years",
+        "reference_number": "PSL303117-13-1",
+        "job_code": 176585,
+        "skills": [
+            "ML Ops",
+            "AI",
+            "Data Science",
+            "Other",
+            "product"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "DevOps and Automation Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_193648-1-1",
+        "job_code": 180077,
+        "skills": [
+            "Python",
+            "Jenkins",
+            "AWS",
+            "DevOps"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "SF Marketing Cloud Developer",
+        "company": "Persistent",
+        "experience": "2-5 years",
+        "reference_number": "PSL214023_1-25-1",
+        "job_code": 173212,
+        "skills": [
+            "Marketing Cloud",
+            "Email Specialist",
+            "SF Marketing Cloud Development"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_203298-1-3",
+        "job_code": 180045,
+        "skills": [
+            "Java",
+            "Full Stack"
+        ],
+        "locations": [
+            "Mumbai, Maharashtra, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "OFM Developer",
+        "company": "Persistent",
+        "experience": "6-8 years",
+        "reference_number": "SF_OP_200038-2-3",
+        "job_code": 169427,
+        "skills": [
+            "Oracle SOA Suite",
+            "web services",
+            "PL/SQL"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": "DevOps IAM",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "PSL301378-12-2",
+        "job_code": 179038,
+        "skills": [
+            "IAM Platform Engineering",
+            "CI/CD & Automation",
+            "Cloud IAM / Scripting"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL301030-62-5",
+        "job_code": 175487,
+        "skills": [
+            "Python",
+            "Linux Administration",
+            "Unix",
+            "Kubernetes"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Principal Site Reliability Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL302139-10-7",
+        "job_code": 180677,
+        "skills": [
+            "Python",
+            "SRE",
+            "DevOps",
+            "Kubernetes",
+            "CICD"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "IaC Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204375-1-1",
+        "job_code": 179303,
+        "skills": [
+            "Python",
+            "REST",
+            "Containers",
+            "Other",
+            "Automation",
+            "Powershell",
+            "Ansible"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "AI ML Engineer - Python",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL216626_1-35-1",
+        "job_code": 170119,
+        "skills": [
+            "Python",
+            "Django"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "C/C++ Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL306867-30-1",
+        "job_code": 180879,
+        "skills": [
+            "C C++",
+            "Telecom"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_191011-1-10",
+        "job_code": 180953,
+        "skills": [
+            "Java",
+            "Spring",
+            "Microservices",
+            "Artificial Intelligence"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "SCPO Demand & Fullfilment - Techno Functional",
+        "company": "Persistent",
+        "experience": "5-15 years",
+        "reference_number": "SF_OP_200911-6-1",
+        "job_code": 179033,
+        "skills": [
+            "“Enterprise Supply Planning”",
+            "“Supply ChaiN”",
+            "ESP",
+            "“Supply Planning”"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".NET iOS Dev Developer ",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL-US211239_12-253-1",
+        "job_code": 178963,
+        "skills": [
+            "iOS Development",
+            ".NET MAUI"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Oracle PL/SQL Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL217359_1-52-2",
+        "job_code": 177212,
+        "skills": [
+            "Oracle PL/SQL",
+            "Unix",
+            "Shell Scriptin"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".NET Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_202825-4-1",
+        "job_code": 181254,
+        "skills": [
+            "ASP.NET",
+            "ASP.NET Core",
+            "RESTful API",
+            "Web API",
+            "Work Flow"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Agentic AI Platform Architect",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL302139-13-2",
+        "job_code": 181671,
+        "skills": [
+            "AI Frameworks",
+            "Python 3.x"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India",
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-34-1",
+        "job_code": 179189,
+        "skills": [
+            "Java Springboot",
+            "React",
+            "SQL",
+            "Azure",
+            "CICD",
+            "Docker",
+            "Kubernetes",
+            "LLM",
+            "RAG (Retrieval Augmented Generation)",
+            "Microservices"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Golang Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204729-22-1",
+        "job_code": 180502,
+        "skills": [
+            "Golang",
+            "DevOps"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-6-4",
+        "job_code": 182105,
+        "skills": [
+            "Python",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Node.js Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL302470-33-1",
+        "job_code": 179268,
+        "skills": [
+            "Node.JS",
+            "Java"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "SRE Cloud AWS Develops Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL306116-45-1",
+        "job_code": 175438,
+        "skills": [
+            "Golang",
+            "Python"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "GenAI/Agentic AI Engineer",
+        "company": "Persistent",
+        "experience": "7-14 years",
+        "reference_number": "PSL305335-25-1",
+        "job_code": 178875,
+        "skills": [
+            "Python",
+            "Data Analytics",
+            "LLM",
+            "Linux Administration"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "AWS�Connect�Developer�(Conversational�AI�Engineer)",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204881-1-2",
+        "job_code": 182542,
+        "skills": [
+            "Unified Communications & Telecom -  AWS Connect",
+            "AWS Lambda"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "GenAI/Agentic AI Engineer",
+        "company": "Persistent",
+        "experience": "6-15 years",
+        "reference_number": "PSL213709_1-205-1",
+        "job_code": 171797,
+        "skills": [
+            "GenAI",
+            "Agentic AI",
+            "ML",
+            "LLM",
+            "Langchain"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "GenAI/Agentic AI Engineer",
+        "company": "Persistent",
+        "experience": "10-12 years",
+        "reference_number": "SF_OP_189188-9-1",
+        "job_code": 178324,
+        "skills": [
+            "LLM",
+            "RAG (Retrieval Augmented Generation)",
+            "Agentic AI",
+            "ML Ops",
+            "AI",
+            "NLP (Natural language Processing)"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Python Architect",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "PSL208533_1-148-1",
+        "job_code": 177826,
+        "skills": [
+            "Python",
+            "Linux",
+            "Scripting & Programming Language-Tcl/Tk"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java React Developer",
+        "company": "Persistent",
+        "experience": "5-7 years",
+        "reference_number": "PSL200684_1-71-3",
+        "job_code": 101115,
+        "skills": [
+            "Java Springboot",
+            "Micro Services",
+            "React",
+            "Cloud"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Business Analyst",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "SF_OP_199463-2-5",
+        "job_code": 167167,
+        "skills": [
+            "Data Analytics",
+            "SQL"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Persistent",
+        "experience": "10-15 years",
+        "reference_number": "SF_OP_203074-6-1",
+        "job_code": 178347,
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Data Science",
+            "Supply Chain",
+            "Databases SQL and No SQL",
+            "Demand Forecasting"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Senior Salesforce Aura Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_202665-1-3",
+        "job_code": 174933,
+        "skills": [
+            "Salesforce Apex",
+            "Salesforce LWC",
+            "Salesforce Integration Services",
+            "Salesforce Aura",
+            "Salesforce Visualforce"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Persistent",
+        "experience": "3-5 years",
+        "reference_number": "PSL306561-7-1",
+        "job_code": 180649,
+        "skills": [
+            "Data engineer",
+            "Teradata",
+            "CICD"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Senior Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_203765-4-4",
+        "job_code": 180023,
+        "skills": [
+            "Other",
+            "product",
+            "Python",
+            "NodeJS",
+            "AI"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_191011-1-8",
+        "job_code": 180904,
+        "skills": [
+            "Java",
+            "REST",
+            "API",
+            "Artificial Intelligence"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".NET Full Stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-28-2",
+        "job_code": 178822,
+        "skills": [
+            "C#.Net",
+            "Angular",
+            "SQL",
+            "Azure"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Dot net full stack developer  ",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL301305-126-1",
+        "job_code": 181532,
+        "skills": [
+            "AI Product Management",
+            "HealthCare Products",
+            "product",
+            "AI",
+            "Gemini",
+            "Vertex AI",
+            "Vertex",
+            "AWS"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " .Net Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL214838_1-25-1",
+        "job_code": 173324,
+        "skills": [
+            ".Net Core",
+            "Web API",
+            "asynchronous programming",
+            "Other",
+            "No SQL",
+            "C",
+            "product",
+            "Product Development"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL300244-240-1",
+        "job_code": 180200,
+        "skills": [
+            "Java",
+            "AI",
+            "Python",
+            "Other",
+            "Spring",
+            ".NET"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".NET Full stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_198703-1-2",
+        "job_code": 181964,
+        "skills": [
+            ".Net Core",
+            "Claude",
+            "OOPS",
+            "Azure Pipelines",
+            "SQL"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Java Full stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-40-7",
+        "job_code": 179655,
+        "skills": [
+            "React",
+            "PostgreSQL",
+            "TypeScript",
+            "Java Springboot",
+            "React JS",
+            "Azure"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Golang Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204729-21-6",
+        "job_code": 180504,
+        "skills": [
+            "Golang"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Microsoft Fabric Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204584-2-1",
+        "job_code": 180914,
+        "skills": [
+            "ADF",
+            "Fabric"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": ".NET Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_202825-5-3",
+        "job_code": 182288,
+        "skills": [
+            "RESTful Web Service",
+            "ASP.NET Core",
+            "OAuth2",
+            "Other",
+            "Azure Cosmos DB",
+            "Open API",
+            "Web API",
+            "Work Flow"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".NET Core developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-33-4",
+        "job_code": 178718,
+        "skills": [
+            ".Net Core",
+            "Kubernetes",
+            "Azure",
+            "Vault"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "RPA�UiPath�Developer",
+        "company": "Persistent",
+        "experience": "2-5 years",
+        "reference_number": "SF_OP_204327-2-1",
+        "job_code": 179974,
+        "skills": [
+            "UIPath",
+            "Agentic AI",
+            "Robotic Process Automation",
+            "Prompt engineering",
+            "Azure OpenAI",
+            "SQL"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " .NET Full Stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-31-2",
+        "job_code": 178692,
+        "skills": [
+            "C#.Net",
+            "Angular",
+            "React",
+            "SQL Server"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": ".Net Gen AI Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL300243-1-1",
+        "job_code": 151380,
+        "skills": [
+            "Full Stack",
+            ".NET",
+            "Azure AI",
+            "React",
+            "NodeJS",
+            "React JS",
+            "Azure"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Senior Databricks Engineer",
+        "company": "Persistent",
+        "experience": "8-10 years",
+        "reference_number": "PSL204183_1-245-1",
+        "job_code": 176923,
+        "skills": [
+            "Databricks",
+            "Python",
+            "pyspark",
+            "SQL",
+            "AWS",
+            "Azure"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Senior Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL301324-27-1",
+        "job_code": 180203,
+        "skills": [
+            "Java",
+            "Microservices",
+            "Spring Boot",
+            "Kafka"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Mainframe Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_190307-3-1",
+        "job_code": 181776,
+        "skills": [
+            "COBOL",
+            "IMS"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL304308-4-2",
+        "job_code": 170587,
+        "skills": [
+            "Integration Others",
+            "No SQL",
+            "Micro Services",
+            "Java",
+            "kafka",
+            "Apache Camel"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Data Lake Integration Architect",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "SF_OP_191082-2-1",
+        "job_code": 179371,
+        "skills": [
+            "Data Lake / Big Data Architecture",
+            "ETL & Data Pipeline Engineering",
+            "Cloud Data Platforms"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python Developer ",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "SF_OP_202367-32-1",
+        "job_code": 178758,
+        "skills": [
+            "AWS",
+            "Python",
+            "DevOps"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": " ServiceNow Developer-SecOps",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "PSL306758-19-1",
+        "job_code": 175996,
+        "skills": [
+            "ServiceNow",
+            "Other",
+            "Angular JS",
+            "Case Management",
+            "ERP"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "ETL Data Engineer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL303558-106-2",
+        "job_code": 176017,
+        "skills": [
+            "Data Engineering",
+            "Python",
+            "Data Bricks",
+            "ETL"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Mulesoft Integration Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_203233-1-1",
+        "job_code": 176867,
+        "skills": [
+            "MuleSoft",
+            "MuleSoft Platform Admin"
+        ],
+        "locations": [
+            "Mumbai, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL304737-26-1",
+        "job_code": 178538,
+        "skills": [
+            "asp.net",
+            "react",
+            "azure"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Project Manager - India",
+        "company": "Persistent",
+        "experience": "15-20 years",
+        "reference_number": "SF_OP_203840-1-1",
+        "job_code": 177139,
+        "skills": [
+            "Python",
+            "Agentic AI",
+            "AI",
+            "Java",
+            "LLM",
+            "Microservices"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Sr Developer – Front End",
+        "company": "Persistent",
+        "experience": "8-12 years",
+        "reference_number": "SF_OP_203189-4-2",
+        "job_code": 177453,
+        "skills": [
+            "UI",
+            "QT",
+            "eMbedded Visual C++",
+            "React"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " FDE Lead",
+        "company": "Persistent",
+        "experience": "15-20 years",
+        "reference_number": "PSL307128-4-2",
+        "job_code": 175026,
+        "skills": [
+            "Gen AI",
+            "FastAPI",
+            "Python"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": " Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL300244-230-1",
+        "job_code": 179352,
+        "skills": [
+            "Java",
+            "AI",
+            "Python",
+            "Other",
+            "Spring",
+            ".NET"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL304154-41-1",
+        "job_code": 179343,
+        "skills": [
+            "Java",
+            "Artificial Intelligence",
+            "Microservices",
+            "Other",
+            "Micro Services",
+            "Mongo DB",
+            "My SQL",
+            "No SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Cloud Cost Optimization Engineer (FinOps) ",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_205243-3-5",
+        "job_code": 182179,
+        "skills": [
+            "IBM Cloud",
+            "AWS",
+            "Azure",
+            "Monitoring",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-8-2",
+        "job_code": 182136,
+        "skills": [
+            "Python3",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": " Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-8-5",
+        "job_code": 182140,
+        "skills": [
+            "Python3",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-5-5",
+        "job_code": 182137,
+        "skills": [
+            "Python",
+            "Machine Learning"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Wordpress Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL304168-28-1",
+        "job_code": 181289,
+        "skills": [
+            "WordPress",
+            "JavaScript"
+        ],
+        "locations": [
+            "Chennai, Tamil Nadu, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_191011-1-7",
+        "job_code": 180902,
+        "skills": [
+            "Java",
+            "Spring",
+            "Microservices",
+            "Artificial Intelligence"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Full stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-29-3",
+        "job_code": 178690,
+        "skills": [
+            "Java",
+            "React",
+            "SQL Server",
+            "Azure"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " Full Stack Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204885-4-4",
+        "job_code": 180587,
+        "skills": [
+            "Java",
+            "Full Stack"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "ServiceNow Developer-SecOps",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_189732-2-1",
+        "job_code": 157902,
+        "skills": [
+            "ServiceNow",
+            "ServiceNow Development",
+            "Work Flow",
+            "Testing",
+            "UI"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "C++ Algorithm Developer",
+        "company": "Persistent",
+        "experience": "7-12 years",
+        "reference_number": "PSL201754_1-57-1",
+        "job_code": 173108,
+        "skills": [
+            "C++",
+            "Algorithm",
+            "High Performance",
+            "Multi Threading",
+            "Distributed processing"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": "Programmer (Dev) - India",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_203840-6-1",
+        "job_code": 177135,
+        "skills": [
+            "Java",
+            "Python",
+            "LLM",
+            "Microservices"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Python Developer",
+        "company": "Persistent",
+        "experience": "5-10 years",
+        "reference_number": "PSL301212-7-1",
+        "job_code": 163777,
+        "skills": [
+            "Python",
+            "Networking"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Salesforce CPQ Developer",
+        "company": "Persistent",
+        "experience": "5-7 years",
+        "reference_number": "SF_OP_202163-1-3",
+        "job_code": 173578,
+        "skills": [
+            "Quote-to-Cash (Q2C) process"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL303558-119-1",
+        "job_code": 178271,
+        "skills": [
+            "Data Analysis",
+            "SQL",
+            "Python",
+            "Other",
+            "Dashboards"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "QA Automation",
+        "company": "Persistent",
+        "experience": "8-14 years",
+        "reference_number": "SF_OP_203255-1-4",
+        "job_code": 176786,
+        "skills": [
+            "ETL",
+            "Data Warehousing",
+            "SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL303603-20-1",
+        "job_code": 177464,
+        "skills": [
+            "Java",
+            "Angular",
+            "Azure",
+            "Kubernetes"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Senior Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL304154-38-1",
+        "job_code": 179336,
+        "skills": [
+            "Java",
+            "Artificial Intelligence",
+            "Microservices",
+            "Other",
+            "Micro Services",
+            "Mongo DB",
+            "My SQL",
+            "No SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Python and Django Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL-US212239_1-479-1",
+        "job_code": 179204,
+        "skills": [
+            "SQL",
+            "Python"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_191011-1-5",
+        "job_code": 180903,
+        "skills": [
+            "Java",
+            "Spring",
+            "Microservices",
+            "Artificial Intelligence"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "React.Js�Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL200684_1-284-10",
+        "job_code": 178849,
+        "skills": [
+            "React JS"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Senior Developer",
+        "company": "Persistent",
+        "experience": "6-10 years",
+        "reference_number": "PSL304154-39-1",
+        "job_code": 179338,
+        "skills": [
+            "Java",
+            "Artificial Intelligence",
+            "Microservices",
+            "Other",
+            "Micro Services",
+            "Mongo DB",
+            "My SQL",
+            "No SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL301324-18-1",
+        "job_code": 179424,
+        "skills": [
+            "Java",
+            "Artificial Intelligence",
+            "Microservices",
+            "Other",
+            "Micro Services",
+            "Mongo DB",
+            "My SQL",
+            "No SQL"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL308494-2-5",
+        "job_code": 179616,
+        "skills": [
+            "Java Springboot",
+            "React"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": ".Net Developer",
+        "company": "Persistent",
+        "experience": "10-15 years",
+        "reference_number": "PSL214838_1-45-1",
+        "job_code": 177873,
+        "skills": [
+            ".NET",
+            "ASP.NET",
+            "Web API"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Senior Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "SF_OP_204793-1-1",
+        "job_code": 179863,
+        "skills": [
+            "Microsoft",
+            "Other",
+            "Automation",
+            "Business Functions",
+            "Dataverse"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-5-4",
+        "job_code": 182126,
+        "skills": [
+            "Python",
+            "Machine Learning"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "Hyderabad, Telangana, India"
+        ]
+    },
+    {
+        "title": "Python+ Gen AI Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL309244-8-1",
+        "job_code": 182138,
+        "skills": [
+            "Python3",
+            "AI Frameworks"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "AI Native Engineer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_187536-3-2",
+        "job_code": 182087,
+        "skills": [
+            "Java",
+            "Python",
+            "Azure OpenAI"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Backend Java Developer",
+        "company": "Persistent",
+        "experience": "5-8 years",
+        "reference_number": "PSL212770_1-8-3",
+        "job_code": 172290,
+        "skills": [
+            "Java Springboot",
+            "Microservices"
+        ],
+        "locations": [
+            "Bengaluru, Karnataka, India"
+        ]
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL301305-120-3",
+        "job_code": 178180,
+        "skills": [
+            "Full Stack",
+            "Java Springboot"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    {
+        "title": "Golang Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_195757-1-4",
+        "job_code": 181984,
+        "skills": [
+            "Java Springboot",
+            "Golang"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " Java Full stack developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-33-5",
+        "job_code": 178821,
+        "skills": [
+            "Java Springboot",
+            "Angular",
+            "Azure",
+            "Kubernetes"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": " .NET Core developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "PSL303603-46-1",
+        "job_code": 181420,
+        "skills": [
+            "Java",
+            "Angular",
+            "Azure",
+            "Kubernetes",
+            "Datadog",
+            "Grafana"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Full Stack Java Developer",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_204885-4-3",
+        "job_code": 180586,
+        "skills": [
+            "Java",
+            "Full Stack"
+        ],
+        "locations": [
+            "Pune, Maharashtra, India"
+        ]
+    },
+    {
+        "title": "Oracle Database Administrator",
+        "company": "Persistent",
+        "experience": null,
+        "reference_number": "SF_OP_200971-12-2",
+        "job_code": 182368,
+        "skills": [
+            "PostgreSQL",
+            "Python",
+            "Agile SCRUM"
+        ],
+        "locations": [
+            "Hyderabad, Telangana, India"
+        ]
+    }
+]

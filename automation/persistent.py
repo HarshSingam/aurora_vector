@@ -1,7 +1,11 @@
 from automation.browser import open_browser
+from app.db_connection import SessionLocal
+from app import crud, schemas
+import json
 
 def open_persistent():
     playwright , browser , page = open_browser()
+    all_jobs =[]
 
     page.goto(
     "https://careers.persistent.com/",
@@ -52,6 +56,7 @@ def open_persistent():
 
 
     job_cards = page.locator("lib-job")
+    
 
     for i in range(job_cards.count()):
 
@@ -70,10 +75,34 @@ def open_persistent():
                 skill_locator.nth(j).inner_text()
             )
 
-        print("=" * 40)
-        print(title)
-        print(location)
-        print(skills)
+        job = {
+        "title": title,
+        "company": "Persistent",
+        "location": location,
+        "skills": skills
+        }
+
+        all_jobs.append(job)
+
+    with open(
+        "scraped_data/persistent.json",
+        "w",
+        encoding="utf-8"
+    ) as file:
+
+        json.dump(
+            all_jobs,
+            file,
+            indent=4,
+            ensure_ascii=False
+    )
+        
+    print(f"{len(all_jobs)} jobs saved successfully!")
+
+        # print("=" * 40)
+        # print(title)
+        # print(location)
+        # print(skills)
 
 
     input("Press Enter to close...")

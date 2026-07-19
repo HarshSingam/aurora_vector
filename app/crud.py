@@ -5,6 +5,7 @@ from typing import Optional
 def create_job(db: Session , job: schemas.JobCreate):
     existing_job = (db.query(models.JobPosting).filter(models.JobPosting.title == job.title,
             models.JobPosting.company == job.company,
+            models.JobPosting.skills == job.skills,
             models.JobPosting.salary == job.salary,
             models.JobPosting.location == job.location
         )
@@ -17,6 +18,7 @@ def create_job(db: Session , job: schemas.JobCreate):
     db_job = models.JobPosting(
         title = job.title,
         company = job.company,
+        skills = job.skills,
         salary = job.salary ,
         location = job.location
 
@@ -51,7 +53,7 @@ def update_job(db: Session , job_id: int , updated_job: schemas.JobCreate):
         return None
     
     job.title = updated_job.title
-    job.company = updated_job.company
+    job.company = updated_job.company 
     job.salary = updated_job.salary
     job.location = updated_job.location
     
