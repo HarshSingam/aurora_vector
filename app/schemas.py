@@ -26,3 +26,20 @@ class JobResponse(BaseModel):
     location: str
 
     model_config = ConfigDict(from_attributes=True)
+
+class UserCreate(BaseModel):
+
+    name: str
+
+    email: str
+
+    location: str
+
+    search_terms: str
+
+
+class UserResponse(UserCreate):
+
+    id: int
+
+    model_config = ConfigDict(from_attributes=True)

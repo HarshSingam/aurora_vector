@@ -55,6 +55,19 @@ def delete_job(job_id: int, db: Session = Depends(get_db)):
     return {"message": "Job deleted successfully"}
 
 
+@app.post("/users")
+def create_user(
+    user: schemas.UserCreate,
+    db: Session = Depends(get_db)
+):
+
+    return crud.create_user(db, user)
+
+@app.get("/users")
+def get_users(db: Session = Depends(get_db)):
+
+    return crud.get_users(db)
+
 
 
 

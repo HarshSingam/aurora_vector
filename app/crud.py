@@ -75,4 +75,17 @@ def delete_job(db: Session , job_id : int):
 
     return job
 
+def create_user(db , user):
+    db_user = models.User(name = user.name , email = user.email , location = user.location,
+                          search_terms = user.search_terms)
+    
+    db.add(db_user)
+    db.commit()
+    db.refresh(db_user)
+    return db_user
+
+def get_users(db):
+
+    return db.query(models.User).all()
+
 
